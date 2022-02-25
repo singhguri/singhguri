@@ -10,15 +10,7 @@ singhguri/singhguri is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singhguri&repo=github-readme-stats" /> -->
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhguri)](https://github.com/singhguri/github-readme-stats)" />
-</a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singhguri&repo=convoychat" />
-</a> -->
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhguri)](https://github.com/singhguri/github-readme-stats)
 
 [![singhguri's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhguri)](https://github.com/singhguri/github-readme-stats)
 
