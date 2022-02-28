@@ -10,6 +10,8 @@ singhguri/singhguri is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=singhguri&countColor=%237b1e7a)](https://visitorbadge.io/status?path=singhguri)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=singhguri)](https://github.com/singhguri/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhguri)](https://github.com/singhguri/github-readme-stats)
