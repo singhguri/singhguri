@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singhguri
+# Hi 👋, I'm Gurpreet Singh
 - 👀 I’m interested in ... Anything and Everything that amazes me
 - 🌱 I’m always learning new things.
 - ✨ I’m currently learning ... How to fall in love with programming
